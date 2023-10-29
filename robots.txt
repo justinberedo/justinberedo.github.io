@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://justinberedo.github.io/al-folio/sitemap.xml
+Sitemap: https://justinberedo.github.io/sitemap.xml
