@@ -19,6 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a data engineer. I live in Taal, Batangas, Philippines. Outside of work, I try to be active and bike outdoors.
-
-I started this blog to share what I learned. I'm hoping you can learn from me too.
+My work has mostly focused on building data platforms. I love working with cloud infrastructure because it serves as the foundation of most modern data platforms. It's one of the most important parts of the whole picture but often overlooked. I build and code data pipelines too.
