@@ -5,13 +5,11 @@ permalink: /
 subtitle: Data Engineer at <a href='https://thinkingmachin.es/'>Thinking Machines Data Science</a>
 
 profile:
-  align: right
-  image: justin_prof_pic.jpg
+  align: 
+  image:
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>+63 917 300 7454</p>
-    <p>Taal, Batangas</p>
-    <p>Philippines</p>
+
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
